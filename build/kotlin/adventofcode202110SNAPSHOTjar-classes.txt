@@ -1,0 +1,1 @@
+/Users/haraldkjorholt/IdeaProjects/adventofcode2021/build/classes/kotlin/main/MainKt.class
